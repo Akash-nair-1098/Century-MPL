@@ -5,9 +5,6 @@
     font-family: 'Akaya Kanadaka', cursive;
     background-color: white;
 }
-.card-text {
-    font-size: 15px;
-}
 
 body {
     background-image: url("teamsbackground.jpeg");
@@ -37,11 +34,6 @@ h1 {
     font-weight: bolder;
     
 }
-#sug a:hover {
-    background-color: #00c45f;
-    color: black;
-}
-#cond a:hover {
-    background-color: #00c45f;
-    color: black;
+body{
+    background-color: #00b853;
 }
