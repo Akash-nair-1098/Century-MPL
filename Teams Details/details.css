@@ -1,0 +1,24 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Akaya+Telivigala&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Akaya+Kanadaka&display=swap');
+#dhrishyam{
+    color:rgb(148, 147, 147);
+    text-align:center;
+    font-family: 'Akaya Kanadaka', cursive;
+    background-color: white;
+}
+h1{
+    text-align: center;
+    margin-top: 5%;
+    color: rgb(255, 230, 0);
+    -webkit-text-stroke-color: black;
+    font-family: 'Akaya Telivigala', cursive;
+    -webkit-text-stroke-width: 0.5px;
+    text-shadow:3px 2px 2px black;
+}
+body {
+    background-image: url("background.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+  
+}

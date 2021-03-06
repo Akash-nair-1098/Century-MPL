@@ -1,0 +1,104 @@
+@import url('https://fonts.googleapis.com/css2?family=Akaya+Kanadaka&display=swap');
+#dhrishyam{
+    color:rgb(148, 147, 147);
+    text-align:center;
+    font-family: 'Akaya Kanadaka', cursive;
+    background-color: white;
+}
+
+#head {
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+    color: black;
+}
+
+body {
+    background-color: white;
+
+
+}
+
+.nav-link {
+    color: rgb(2, 0, 117);
+    font-family: 'Acme', sans-serif;
+
+}
+
+marquee {
+    background-color: black;
+    color: rgb(255, 255, 255);
+    font-family: 'Acme', sans-serif;
+
+}
+
+.bid {
+    color: white;
+    font-size: 200%;
+    font-weight: bolder;
+}
+
+#mostexpensive {
+    size: 190%;
+    color: rgb(0, 0, 0);
+    font-family: 'sans-serif';
+    text-align: center;
+    background-image: linear-gradient(to right, #a7beff, #87008b);
+    padding: 2%;
+}
+
+.social {
+    font-size:7px;
+    margin-left: 70%;
+    margin-right: auto;
+
+}
+.social a{
+    color: rebeccapurple;
+}
+
+
+.navbar-nav a:hover {
+    background-color: #00c45f;
+    color: black;
+}
+
+.navbar-nav a {
+    float: right;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.navbar-nav a.active {
+    background-color: #4CAF50;
+    color: white;
+}
+
+.first {
+    background-image: linear-gradient(to right, #550091, #000791);
+
+}
+#instablack{
+    width: 3%;
+    height: 3%;
+    
+}
+#fbblack{
+    width: 3.5%;
+    height: 3.5%;
+}
+.col-4{
+    font-family: 'Krona One';
+     padding: 10px;
+     background-color: white;
+}
+
+#onmobile{
+    background-color: #00912e;
+    font-size: medium;
+text-align: center;
+color: white;
+margin-top: 5%;
+font-family: 'Akaya Kanadaka', cursive;
+}

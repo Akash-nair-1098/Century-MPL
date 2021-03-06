@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Akaya+Kanadaka&display=swap');
+#dhrishyam{
+    color:rgb(148, 147, 147);
+    text-align:center;
+    font-family: 'Akaya Kanadaka', cursive;
+    background-color: white;
+}
+.card-text {
+    font-size: 15px;
+}
+
+body {
+    background-image: url("teamsbackground.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1 {
+    text-align: center;
+    color: #fffb06;
+    margin-top: 5%;
+    -webkit-text-stroke-color: black;
+    -webkit-text-stroke-width: 1px;
+    font-family: 'RocknRoll One', sans-serif;
+}
+
+.card:hover {
+    box-shadow: 8px 8px 5px rgb(0, 0, 0);
+    transform: scale(1.1);
+
+}
