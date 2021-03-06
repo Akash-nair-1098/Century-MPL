@@ -44,10 +44,14 @@ marquee {
     background-image: linear-gradient(to right, #a7beff, #87008b);
     padding: 2%;
 }
-
+#nav{
+    background-color: rgb(146, 146, 146);
+    box-shadow: 5px 10px 3px #000000;
+    
+}
 .social {
     font-size:7px;
-    margin-left: 70%;
+    margin-left: 60%;
     margin-right: auto;
 
 }
