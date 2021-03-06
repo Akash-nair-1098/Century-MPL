@@ -60,7 +60,7 @@ marquee {
 }
 
 
-.navbar-nav a:hover {
+.col-2 a:hover {
     background-color: #00c45f;
     color: black;
 }

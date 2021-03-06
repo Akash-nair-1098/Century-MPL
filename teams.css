@@ -10,7 +10,7 @@
 }
 
 body {
-    background-image: url("teamsbackground.jpg");
+    background-image: url("teamsbackground.jpeg");
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -24,8 +24,16 @@ h1 {
     font-family: 'RocknRoll One', sans-serif;
 }
 
-.card:hover {
+.col-3:hover {
     box-shadow: 8px 8px 5px rgb(0, 0, 0);
     transform: scale(1.1);
 
+}
+.col-3{
+    color: red;
+    font-family: 'RocknRoll One', sans-serif;
+    -webkit-text-stroke: rgb(0, 0, 0);
+    -webkit-text-stroke-width: .5px;
+    font-weight: bolder;
+    
 }
